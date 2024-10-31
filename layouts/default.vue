@@ -1,6 +1,6 @@
 <template>
     <div>
       <Header />
-      <NuxtPage />
+      <slot />
     </div>
   </template>
